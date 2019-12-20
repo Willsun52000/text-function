@@ -1,0 +1,7 @@
+# Function dependencies, for example:
+# package>=version
+wave
+pandas
+google-cloud-speech
+google-cloud-pubsub
+google-cloud-storage

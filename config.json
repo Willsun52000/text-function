@@ -1,0 +1,10 @@
+{
+  "AUDIO_BUCKET": "glaucusis_meeting_audio",
+  "TEXT_BUCKET": "glaucusis_meeting_text",
+  "OPERATION_TOPIC": "[YOUR_RESULT_TOPIC_NAME]",
+  "OPERATION_TOPIC": "[YOUR_RESULT_TOPIC_NAME]",
+  "TRANSLATE_TOPIC": "[YOUR_TRANSLATE_TOPIC_NAME]",
+  "TRANSLATE_TOPIC": "[YOUR_TRANSLATE_TOPIC_NAME]",
+  "TRANSLATE": true,
+  "TO_LANG": ["en", "fr", "es", "ja", "ru"]
+}
